@@ -27,5 +27,5 @@ Phina is a beginner in web dev and is always ready to learn and develop herself.
  
 - 💬 Ask me about css and basic javascript
  
-- ⚡ Fun fact: I never thought i would enjoy programming but I am
+- ⚡ Fun fact: I never thought i would enjoy programming but I am.....at least for now.
 
