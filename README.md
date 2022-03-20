@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Phina is a beginner in web dev and is always ready to learn and develop herself  
+Phina is a beginner in web dev and is always ready to learn and develop herself. I plan to be a front-end developer  
 ---
 # Languages and Tools:
 
@@ -17,9 +17,9 @@ Phina is a beginner in web dev and is always ready to learn and develop herself
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
 ---
-- 🔭 I’m currently working on website.
+- 🔭 I’m currently working on using bookstrap to create a website.
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and bookstrap and plan to learn tailwind,react,jquery or angular
 
 - 👯 I’m looking to collaborate on a project with Hiit team
  
