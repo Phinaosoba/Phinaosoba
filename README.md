@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 Phina is a beginner in web dev and is always ready to learn and develop herself  
-
+---
 # Languages and Tools:
 
 <code><img height="20"
@@ -13,9 +13,10 @@ Phina is a beginner in web dev and is always ready to learn and develop herself
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phinaosoba&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
-
+---
 - 🔭 I’m currently working on website.
 
 - 🌱 I’m currently learning javascript
