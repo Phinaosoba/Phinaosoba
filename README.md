@@ -8,7 +8,7 @@ Phina is a beginner in web dev and is always ready to learn and develop herself.
 
 <code><img height="20"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
+![Phinaosoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=phinaosoba&show_icons=true&theme=cobalt)
 | <a href="https://github.com/phinaosoba/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phinaosoba&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/phinaosoba/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phinaosoba&layout=compact&theme=aura&hide_border=true" /></a> |
 
 
