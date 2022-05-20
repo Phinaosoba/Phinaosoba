@@ -18,11 +18,11 @@ Phina is a beginner in web dev and is always ready to learn and develop herself.
 ---
 - 🔭 I’m currently working on using bookstrap to create a website.
 
-- 🌱 I’m currently learning javascript and bookstrap and plan to learn tailwind,react,jquery or angular
+- 🌱 I’m currently learning javascript and bookstrap and plan to learn tailwind,react or jquery
 
 - 👯 I’m looking to collaborate on a project with Hiit team
  
-- 🤔 I’m looking for help with front-end stacks
+- 🤔 I’m looking for help with front-end stack
  
 - 💬 Ask me about css and basic javascript
  
